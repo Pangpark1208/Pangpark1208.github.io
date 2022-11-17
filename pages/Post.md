@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 ---
 
-
-고오민
+start 221117!
  
